@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+<title><strong>Hao</strong> de restaurant</title>
+<h1>The Vietnamese Restaurant</h1>
+<p><summary>This is the Vietnamese Restaurant and we provide our traditional foods. You can chance to taste all the flavours from Vietnam Cuisine, which is known as one of the top delicious countries in the world.</summary></p>
+</head>
+<body>  
+    <main>
+    <h2><em>MENU<em></h2>
+    <section>
+    <ol>
+        <li>Vietnamese Food</li>
+        <li>Snacks</li>
+        <li>Brunch</li>
+    </ol>
+    </section>
+    <section>
+    <h3> TOP BEST OF THE BEST</h3>
+    <ul>
+    <li><figure>
+        </h1><img src="https://vietnamnomad.com/wp-content/uploads/2022/07/Banh-Xeo-A-guide-to-Vietnamese-Pancakes-Vietnamnomad.jpg" alt="Vietnamese pancakes" width="30%" class="thumbnail"/><figcaption>Vietnamese Pancakes</figcaption></figure></li>
+    <li><figure><img src="https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/09_2022/quan-com-tam-o-ha-noi-.jpg" alt="Broken rice with ribs grilled" width="30%" class="thumbnail"/><figcaption>Broken Rice with Grilled Ribs</figcaption></figure></li>
+    <li><figure><img src="https://i0.wp.com/eatfoodlicious.com/wp-content/uploads/2021/05/frame-000053.jpg?fit=3840%2C2160&ssl=1" width="30%" alt="Vietnamese rice noodle with beef slices" class="thumbnail"/><figcaption>Phở-Rice noodle with beef slices</figcaption></figure></li>
+    </ul>
+    </section>
+    <section>
+        <fieldset>
+            <legend>Do you want to share bills?</legend>
+            <label><input id="share" type="radio" name="sharebills" value="share" checked> Share</label>
+            <label><input id="noshare" type="radio" name="sharebills" value="noshare"> Noshare</label>
+          </fieldset>
+    </section>
+<footer>
+    <section>
+    <a href="https://www.tripadvisor.com/Restaurants-g293925-c41-Ho_Chi_Minh_City.html">If you don't see our restaurant, please check this link</a>
+    </section>
+    <p>2023 by Nguyen Hao</p>
+</footer>
